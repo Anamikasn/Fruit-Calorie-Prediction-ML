@@ -1,0 +1,1 @@
+web: gunicorn calorie-prediction.app:app
